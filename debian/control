@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-android-script-server
+Section: misc
+Priority: extra
+Maintainer: Benjamin Maidel <bnm@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/cob_android_script_server
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-android-script-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cob-android-msgs, ros-indigo-cob-script-server, ros-indigo-rospy
+Description: cob_android_script_server
