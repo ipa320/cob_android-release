@@ -1,0 +1,16 @@
+ros-indigo-cob-android (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-indigo-cob-android (0.1.1-0saucy) saucy; urgency=high
+
+  * migrated to package xml 2
+  * removed wrong changelog
+  * catkinized and fixed
+  * Contributors: Benjamin Maidel
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Fri, 28 Aug 2015 22:00:00 -0000
+
+
