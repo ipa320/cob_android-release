@@ -1,4 +1,0 @@
-- git:
-    uri: 'https://github.com/ipa320/cob_command_tools.git'
-    local-name: cob_command_tools
-    version: indigo_dev
