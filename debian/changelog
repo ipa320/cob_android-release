@@ -1,0 +1,26 @@
+ros-indigo-cob-android-settings (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-indigo-cob-android-settings (0.1.1-0saucy) saucy; urgency=high
+
+  * migrated to package xml 2
+  * cleaned up cob_android settings
+  * catkinized and fixed
+  * parameters to set text on gui
+  * fixed resource_server and modified topic name and categories
+  * added order categories
+  * introduced yaml file to configure guis functionality
+  * changed service names back to raw script names
+  * changed topic names
+  * added service names to yaml parameters
+  * modified topic_names
+  * update deps and license
+  * inital commit
+  * Contributors: Benjamin Maidel
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Fri, 28 Aug 2015 22:00:00 -0000
+
+
