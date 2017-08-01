@@ -1,0 +1,12 @@
+Source: ros-kinetic-cob-android-settings
+Section: misc
+Priority: extra
+Maintainer: Benjamin Maidel <bnm@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/cob_android_settings
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-cob-android-settings
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: cob_android_settings
