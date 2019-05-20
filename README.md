@@ -1,3 +1,31 @@
+## cob_android (kinetic) - 0.1.5-1
+
+The packages in the `cob_android` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_android --rosdistro kinetic` on `Mon, 20 May 2019 06:58:04 -0000`
+
+These packages were released:
+- `cob_android`
+- `cob_android_msgs`
+- `cob_android_resource_server`
+- `cob_android_script_server`
+- `cob_android_settings`
+
+Version of package(s) in repository `cob_android`:
+
+- upstream repository: https://github.com/ipa320/cob_android.git
+- release repository: https://github.com/ipa320/cob_android-release.git
+- rosdistro version: `0.1.4-0`
+- old version: `0.1.4-0`
+- new version: `0.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## cob_android (kinetic) - 0.1.4-0
 
 The packages in the `cob_android` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_android --track kinetic --rosdistro kinetic` on `Sun, 07 Jan 2018 10:28:55 -0000`
