@@ -1,3 +1,31 @@
+## cob_android (melodic) - 0.1.6-1
+
+The packages in the `cob_android` repository were released into the `melodic` distro by running `/usr/bin/bloom-release cob_android --rosdistro melodic` on `Wed, 07 Aug 2019 12:34:14 -0000`
+
+These packages were released:
+- `cob_android`
+- `cob_android_msgs`
+- `cob_android_resource_server`
+- `cob_android_script_server`
+- `cob_android_settings`
+
+Version of package(s) in repository `cob_android`:
+
+- upstream repository: https://github.com/ipa320/cob_android.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## cob_android (kinetic) - 0.1.6-1
 
 The packages in the `cob_android` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_android --rosdistro kinetic` on `Wed, 07 Aug 2019 10:56:34 -0000`
