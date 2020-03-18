@@ -1,0 +1,12 @@
+Source: ros-melodic-cob-android-script-server
+Section: misc
+Priority: optional
+Maintainer: Benjamin Maidel <bnm@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/cob_android_script_server
+Standards-Version: 3.9.2
+
+Package: ros-melodic-cob-android-script-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-cob-android-msgs, ros-melodic-cob-script-server, ros-melodic-rospy
+Description: cob_android_script_server
