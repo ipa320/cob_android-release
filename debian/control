@@ -1,0 +1,12 @@
+Source: ros-melodic-cob-android
+Section: misc
+Priority: optional
+Maintainer: Benjamin Maidel <bnm@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/cob_android
+Standards-Version: 3.9.2
+
+Package: ros-melodic-cob-android
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-cob-android-msgs, ros-melodic-cob-android-resource-server, ros-melodic-cob-android-script-server, ros-melodic-cob-android-settings
+Description: cob_android package provides tools for android apps operation.
