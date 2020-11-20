@@ -1,0 +1,93 @@
+ros-melodic-cob-android-script-server (0.1.8-1stretch) stretch; urgency=high
+
+  * Merge pull request #40 <https://github.com/ipa320/cob_android/issues/40> from fmessmer/test_noetic
+    test noetic
+  * use setuptools instead of distutils
+  * Bump CMake version to avoid CMP0048 warning
+  * Merge pull request #41 <https://github.com/ipa320/cob_android/issues/41> from fmessmer/fix_catkin_lint
+    fix catkin_lint
+  * fix catkin_lint
+  * Contributors: Felix Messmer, fmessmer
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Thu, 19 Nov 2020 23:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.7-1stretch) stretch; urgency=high
+
+  * Merge pull request #39 <https://github.com/ipa320/cob_android/issues/39> from fmessmer/feature/python3_compatibility
+    [ci_updates] pylint + Python3 compatibility
+  * fix pylint errors
+  * python3 compatibility via 2to3
+  * Contributors: Felix Messmer, fmessmer
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Tue, 17 Mar 2020 23:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.6-1stretch) stretch; urgency=high
+
+
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Tue, 06 Aug 2019 22:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.5-1stretch) stretch; urgency=high
+
+  * Merge pull request #36 <https://github.com/ipa320/cob_android/issues/36> from benmaidel/feature/trigger_action
+    Feature/trigger action
+  * add support for trigger_action buttons
+  * fix wrong parameter comparison
+  * Contributors: Benjamin Maidel, Felix Messmer
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Sun, 19 May 2019 22:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.4-1stretch) stretch; urgency=high
+
+  * Merge pull request #33 <https://github.com/ipa320/cob_android/issues/33> from ipa320/indigo_release_candidate
+    Indigo release candidate
+  * Merge pull request #31 <https://github.com/ipa320/cob_android/issues/31> from ipa-fxm/APACHE_license
+    use license apache 2.0
+  * use license apache 2.0
+  * Contributors: Felix Messmer, ipa-uhr-mk
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Sat, 06 Jan 2018 23:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.3-1stretch) stretch; urgency=high
+
+  * removed scripts and requires tag from setup.py
+  * do not use sub folder for installed scripts
+  * Create CMakeLists.txt
+  * remove duplicate install_tag
+  * refactor config structure
+  * removed planning parameter for trigger service
+  * Contributors: Benjamin Maidel, Florian Weisshardt, ipa-cob4-2, ipa-fxm
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Sun, 16 Jul 2017 22:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.2-1stretch) stretch; urgency=high
+
+
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-melodic-cob-android-script-server (0.1.1-1stretch) stretch; urgency=high
+
+  * Merge branch 'indigo_dev' of github.com:ipa320/cob_android into feature/non_blocking_service_calls
+  * added missing dependency
+  * added missing dependency
+  * migrated to package xml 2
+  * moved script srv to cob_android_msgs package
+  * considered pr commends
+  * fixed build errors
+  * cleaned up cob_android_script_server
+  * switch script server from blocking srvs to non blocking srvs
+  * typo fix
+  * renamed
+  * install tags
+  * typo fix
+  * catkinized and fixed
+  * added service names to yaml parameters
+  * added light switch to androids script server
+  * update deps and license
+  * inital commit
+  * Contributors: Benjamin Maidel
+
+ -- Benjamin Maidel <bnm@ipa.fhg.de>  Fri, 28 Aug 2015 22:00:00 -0000
+
+
