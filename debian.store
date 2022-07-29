@@ -1,1 +1,1 @@
-{"trim": "", "base": "06323dd", "trimbase": "", "parent": "debian/noetic/cob_android_resource_server", "previous": "30fbd2b"}
+{"base": "373ea86", "parent": "debian/noetic/cob_android_resource_server", "previous": "9015fd8", "trim": "", "trimbase": ""}
